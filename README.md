@@ -34,6 +34,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://res.cloudinary.com/codeparva/image/upload/v1619578094/crystal_logo_b3f7dfc56b.png"
       alt="html5" width="40" height="40" /> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/1180605?s=200&v=4"
+      alt="html5" width="40" height="40" /> </a>
   
   
 <p>
