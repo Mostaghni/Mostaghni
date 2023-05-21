@@ -31,7 +31,7 @@
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
       alt="html5" width="70" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.sap.com/products/technology-platform/crystal-reports.html" target="_blank" rel="noreferrer">
     <img src="https://res.cloudinary.com/codeparva/image/upload/v1619578094/crystal_logo_b3f7dfc56b.png"
       alt="html5" width="40" height="40" /> </a>
   
