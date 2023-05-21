@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://www.svgrepo.com/svg/303229/microsoft-sql-server-logo)"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
       alt="html5" width="40" height="40" /> </a>
   
 <p>
