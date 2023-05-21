@@ -33,7 +33,7 @@
       alt="html5" width="70" height="40" /> </a>
   <a href="https://www.sap.com/products/technology-platform/crystal-reports.html" target="_blank" rel="noreferrer">
     <img src="https://res.cloudinary.com/codeparva/image/upload/v1619578094/crystal_logo_b3f7dfc56b.png"
-      alt="html5" width="40" height="40" /> </a>
-  
-  
+      alt="html5" width="40" height="40" /> </a> 
 <p>
+  
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
