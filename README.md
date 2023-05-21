@@ -37,4 +37,6 @@
     <img src="https://res.cloudinary.com/codeparva/image/upload/v1619578094/crystal_logo_b3f7dfc56b.png"
       alt="html5" width="40" height="40" /> </a> 
 <p>
+ 
+ ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
   
