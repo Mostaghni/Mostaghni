@@ -30,6 +30,6 @@
       alt="html5" width="40" height="40" /> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
-      alt="html5" width="40" height="40" /> </a>
+      alt="html5" width="70" height="40" /> </a>
   
 <p>
